@@ -2,3 +2,10 @@ h1 {
   color: #b8362f;
   text-align: center;
 }
+
+body {
+  background-color: #14181c;
+  color: #dbe4ea;
+  font-family: Arial;
+  padding: 10px;
+}

@@ -26,7 +26,7 @@ ul, li{
   display: inline;
   background-color: #1e262d;
   color: #c3d1da;
-  border-radius: 100%;
+  border-radius: 25%;
   padding: 10px;
   margin: 10px;
 }
@@ -34,5 +34,5 @@ ul, li{
 img {
   width: 189px;
   height: 189px;
-  border-radius: 50%;
+  border-radius: 20%;
 }

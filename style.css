@@ -20,12 +20,9 @@ body {
   padding: 10px;
 }
 
-ul {
+ul, li{
   list-style: none;
   padding: 10px;
-}
-
-li {
   display: inline;
   background-color: #1e262d;
   color: #c3d1da;

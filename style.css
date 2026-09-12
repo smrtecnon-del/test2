@@ -23,7 +23,7 @@ body {
 ul, li{
   list-style: none;
   padding: 10px;
-  display: inline;
+  display: inline-block;
   background-color: #1e262d;
   color: #c3d1da;
   border-radius: 20px;
@@ -38,7 +38,7 @@ img {
 }
 
 a {
-  display: inline;
+  display: inline-block;
   color: #c3d1da;
   background-color: #1e262d;
   text-decoration: none;
